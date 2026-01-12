@@ -6,6 +6,9 @@
   <h3>🚀 Artificial Intelligence Student @ FPT University</h3>
   <p><i>"Teaching machines to see the world and predict the future."</i></p>
 
+  <a href="https://2uocvi3t-portfolio.vercel.app/#home">
+    <img src="https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/quoc-viet-huynh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
