@@ -19,22 +19,23 @@
 </p>
 
 <h1 align="center">Huynh Quoc Viet</h1>
-<p align="center"><strong>AI Researcher &amp; Machine Learning Engineer · AI Tech Lead at SpeedyLabX</strong></p>
-<p align="center">Ho Chi Minh City, Vietnam · B.Eng. in Artificial Intelligence, FPT University · Expected January 2027</p>
+<p align="center"><strong>AI Research · Machine Learning · Data Engineering · AI Tech Lead at SpeedyLabX</strong></p>
+<p align="center">Ho Chi Minh City, Vietnam · B.Eng. in Artificial Intelligence, FPT University · Jun 2023–Expected Jun 2027</p>
+<p align="center">English Proficiency Program, HELP University · Dec 2023–Feb 2024</p>
 
 <p align="center">
   <a href="https://2uocvi3t-portfolio.vercel.app/">Portfolio</a> ·
-  <a href="https://2uocvi3t-portfolio.vercel.app/cv/ATS_Resume_master.pdf">Master CV</a> ·
+  <a href="https://2uocvi3t-portfolio.vercel.app/cv/Huynh_Quoc_Viet_Resume.pdf">Resume (PDF)</a> ·
   <a href="https://www.linkedin.com/in/quoc-viet-huynh/">LinkedIn</a> ·
   <a href="https://orcid.org/0009-0003-8727-9998">ORCID</a> ·
-  <a href="mailto:tyviet1609@gmail.com">Email</a>
+  <a href="mailto:viethq1609@gmail.com">Email</a>
 </p>
 
 ---
 
 ## `> whoami` · Research identity
 
-I turn research questions into **reproducible AI systems**. My work spans **conformal prediction, multimodal time series, computer vision and reinforcement learning**, with an emphasis on evaluation protocols, calibration and the limits of each result.
+I turn research questions into **reproducible AI systems and data pipelines**. My work spans **conformal prediction, multimodal time series, computer vision and reinforcement learning**, with an emphasis on evaluation protocols, calibration and the limits of each result.
 
 > **Research → Reproduce → Evaluate**  
 > From explicit assumptions to auditable evidence and working systems.
@@ -109,7 +110,7 @@ Studied Federated Learning, Continual Learning, Federated Continual Learning and
 
 ## `> ./connect.sh` · Let's connect
 
-Open to research, machine learning engineering and collaborative AI projects. [**Email me**](mailto:tyviet1609@gmail.com) or [**connect on LinkedIn**](https://www.linkedin.com/in/quoc-viet-huynh/).
+Open to research, machine learning, data engineering and collaborative AI projects. [**Email me**](mailto:viethq1609@gmail.com) or [**connect on LinkedIn**](https://www.linkedin.com/in/quoc-viet-huynh/).
 
 ---
 
